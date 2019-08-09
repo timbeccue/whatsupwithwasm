@@ -1,0 +1,5 @@
+Following along with https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8
+
+1. compile the cpp file with `em++ hello.cpp -s WASM=1 -o hello.html`
+
+
