@@ -1,8 +1,8 @@
 #include <iostream>
-#include "fib.cpp"
+#include "fib.h"
 
 int main() {
-    std::cout << "fib(15) = " << fib(15) << std::endl;
+    std::cout << "fib(25) = " << fib(25) << std::endl;
     return 0;
 }
 
